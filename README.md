@@ -29,7 +29,7 @@
 ##  apps Ui Gallary
 <div style="display:felx; gap:50px">
 <img  src="https://user-images.githubusercontent.com/86893073/186895394-b9d5522c-7b3e-4237-9643-1119b60a0f5c.jpg" width="400em" /> 
-<img  src="https://user-images.githubusercontent.com/86893073/186897126-2a1145b3-8b23-4d6f-81a1-a4e4adb44bcb.jpg" width="400em" /> 
+<img  src="https://user-images.githubusercontent.com/86893073/187028627-d13387f2-a913-4fab-82b0-ab629b436011.jpg" width="400em" /> 
 <img src="https://user-images.githubusercontent.com/86893073/186894937-a46e5756-cfe0-42f3-bd75-6821b5380370.jpg" width="400em" /> 
 <img src="https://user-images.githubusercontent.com/86893073/186894946-ce1747cc-ff2a-44d3-b1d8-185eb9465596.jpg" width="400em" /> 
 </div>
