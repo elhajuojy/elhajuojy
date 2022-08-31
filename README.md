@@ -26,7 +26,7 @@
 
 
 
-##  apps Ui Gallary
+##  Flutter UI Gallery
 <div style="display:felx; gap:50px">
 <img  src="https://user-images.githubusercontent.com/86893073/186895394-b9d5522c-7b3e-4237-9643-1119b60a0f5c.jpg" width="400em" /> 
 <img  src="https://user-images.githubusercontent.com/86893073/187028627-d13387f2-a913-4fab-82b0-ab629b436011.jpg" width="400em" /> 
